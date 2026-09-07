@@ -1,4 +1,5 @@
-# CS1 → TpF2 建筑转换器 1.0beta ⚠仍在开发⚠
+# 都市天际线一代到狂热运输二代assets转换器 1.0beta 
+⚠仍在开发⚠
 
 从 [Releases](https://github.com/linx29853/cs1-to-tpf2/releases/latest) 下载免安装包，完整解压后双击 `app/CS1ToTpF2/CS1ToTpF2.exe`。程序免安装，不需要 Python、Blender、ModTools 或 CS1 游戏。
 请完整解压，保留 EXE 旁边的 `_internal` 文件夹，不要只复制 EXE。
