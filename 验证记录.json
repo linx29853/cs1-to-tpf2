@@ -1,0 +1,52 @@
+{
+  "real_assets": [
+    {
+      "title": "铜陵恒玖金山广场大厦",
+      "triangles": 3866,
+      "lua_files": 46
+    },
+    {
+      "title": "现代新中式住宅楼B",
+      "triangles": 8524,
+      "lua_files": 15
+    },
+    {
+      "title": "现代新中式住宅楼30",
+      "triangles": 5250,
+      "lua_files": 11
+    },
+    {
+      "title": "现代青年公寓",
+      "triangles": 3299,
+      "lua_files": 7
+    },
+    {
+      "title": "中式住宅楼",
+      "triangles": 18911,
+      "lua_files": 29
+    },
+    {
+      "title": "现代新中式住宅楼20",
+      "triangles": 4322,
+      "lua_files": 11
+    },
+    {
+      "title": "现代新中式住宅楼A",
+      "triangles": 5518,
+      "lua_files": 11
+    },
+    {
+      "title": "南京汉中门如家连锁酒店(分店）",
+      "triangles": 2186,
+      "lua_files": 11
+    }
+  ],
+  "original_verified_building_roundtrip": true,
+  "cancel_after_partial_writes_cleaned": true,
+  "existing_output_protected": true,
+  "unit_tests_passed": 12,
+  "packaged_exe_batch_assets_passed": 8,
+  "gui_worker_progress_preview_test_passed": true,
+  "automatic_decimation": false,
+  "game_verification_scope": "User confirmed original Jinshan conversion in game; other assets checked offline only."
+}
